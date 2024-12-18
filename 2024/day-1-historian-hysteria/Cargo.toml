@@ -1,0 +1,8 @@
+[package]
+name = "day-1-historian-hysteria"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.12.9", features = ["blocking"] }
+scraper = "0.22.0"
